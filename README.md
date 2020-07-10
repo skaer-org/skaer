@@ -1,2 +1,1 @@
-# skaer
-Web media streamer
+Youtube music streamer

@@ -1,0 +1,4 @@
+CherryPy
+requests
+youtube-dl
+sqlalchemy
